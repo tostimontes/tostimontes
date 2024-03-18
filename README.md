@@ -15,7 +15,7 @@ I also enjoy automating tasks while learning new languages and libraries.
 - ...developed a📲 [Responsive e-commerce site](https://github.com/tostimontes/shopping-cart) with **_Tailwind_** and Client-Side Routing (**_React Router_**)
 - ...started an📋 [Inventory project with](https://github.com/tostimontes/inventory-node) **_Node.js_** (which I'm testing in real restaurants)
 - ...played to my 🃏[Memory Card Game ](https://github.com/tostimontes/memory-card)that uses data from several museums' public **_REST APIs_**
-- ...discovered the shortest path between two tiles for a chess knight with an🐴[animated BFS algorithm for chess](https://github.com/tostimontes/knights-travails)
+- ...discovered the shortest path between two tiles for a chess knight with an🐴[animated **_BFS algorithm_** for chess](https://github.com/tostimontes/knights-travails)
 - ..done my fair share of vanilla **_Javascript_** CRUD apps:
   - 📚[a library](https://github.com/tostimontes/library)
   - 📌[a to-do list app](https://github.com/tostimontes/to-do-list)
