@@ -13,6 +13,7 @@ I also enjoy automating tasks while learning new languages and libraries.
 
 - ...designed a multiplayer 🚢[Battleship game](https://github.com/tostimontes/battleship) (including a smart AI for single player mode)
 - ...developed a📲 [Responsive e-commerce site](https://github.com/tostimontes/shopping-cart) with **_Tailwind_** and Client-Side Routing (**_React Router_**)
+- ...deployed a💲[Daily budget tracker](https://github.com/tostimontes/daily-budget) in a custom domain using **_Express_** for backend, **_Railway_** as a PaaS, **_Cloudfare_** for DNS management, and **_Passport.js_** for authentication
 - ...started an📋 [Inventory project ](https://github.com/tostimontes/inventory-node)with **_Node.js_** (which I'm testing in real restaurants)
 - ...played to my 🃏[Memory Card Game ](https://github.com/tostimontes/memory-card)that uses data from several museums' public **_REST APIs_**
 - ...discovered the shortest path between two tiles for a chess knight with an🐴[animated **_BFS algorithm_** for chess](https://github.com/tostimontes/knights-travails)
