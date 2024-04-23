@@ -63,4 +63,4 @@ I also enjoy automating tasks while learning new languages and libraries.
 
 [![](https://visitcount.itsvg.in/api?id=tostimontes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌐 Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aitoraizpitarte) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-aizpitarte-zabarte-258470136?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEOlEpm8WTWKuSYjrpltveg%3D%3D)
+### 🌐 Follow me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aitoraizpitarte) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-aizpitarte-zabarte?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEOlEpm8WTWKuSYjrpltveg%3D%3D)
