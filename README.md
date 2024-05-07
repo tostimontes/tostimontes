@@ -43,6 +43,10 @@ I also enjoy automating tasks while learning new languages and libraries.
 
 ## ⏭️ Will I...
 
+...delve deeper into low-level and systems programming with
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ...learn static types to improve my JavaScript and begin exploring statically typed language with
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
